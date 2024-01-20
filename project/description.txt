@@ -1,0 +1,6 @@
+Projekti që kam krijuar është një lojë e thjeshtë e quajtur "Tic Tac Toe" ose njohur ndryshe si "O" dhe "X". 
+Gjuhët programuese që përdora për këtë projekt janë HTML, CSS dhe JavaScript.
+Lojtarët luajnë ndaj njëri-tjetrit duke vendosur simbolet "X" dhe "O" në një tabelë me qeliza 3x3.
+Dy lojtarët kanë mundësinë të luajnë lojën, ku njëri lojtar përdor simbolin "X" dhe tjetri simbolin "O".
+Lojtari që formon një varg me tre simbole të njëjta "X" ose "O" në qelizat e tabelës në mënyrë horizontale, vertikale apo diagonale shpallet fitues.
+Përveç kësaj, ata kanë mundësinë të rifillojnë lojën duke përdorur butonin për të rifilluar një raund të ri pas përfundimit të një loje.
